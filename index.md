@@ -11,16 +11,20 @@ layout: home
 
 Head over to **Scionx.io** and click **Get Started**
 
-• Enter your Company or Organization Name  
-• Agree to our Terms of Service  
+• Enter your Company or Organization Name
+
+• Agree to our Terms of Service
+
 • Sign up using your email address
 
 ---
 
 ## 2️⃣ Confirm Your Email Address
 
-- Check your inbox for a confirmation email from ScionX  
-• Click the link to verify your address  
+- Check your inbox for a confirmation email from ScionX
+
+• Click the link to verify your address
+
 • You’ll be automatically redirected to log in
 
 ---
@@ -31,10 +35,12 @@ Go to **Settings → Wallets** and click **Add Wallet**
 
 Choose from the supported wallet types below:
 
-• Connect via WalletConnect (QR scan or mobile deep link)  
+• Connect via WalletConnect (QR scan or mobile deep link)
+
 • Or, manually add an address (ideal for multi-sig or hardware wallets)
 
 > Your wallet stays non-custodial — you remain in full control.
+> 
 
 ---
 
@@ -46,8 +52,10 @@ It’s a **self-managed wallet** that lets you send, receive, and store crypto a
 
 **Supported Wallets:**
 
-**Ethereum (EVM):** MetaMask, Coinbase Wallet, Trust Wallet, Rainbow, Argent, Gnosis Safe, Frame  
-**Solana:** Phantom, Solflare, Sollet, Slope, Exodus  
+**Ethereum (EVM):** MetaMask, Coinbase Wallet, Trust Wallet, Rainbow, Argent, Gnosis Safe, Frame
+
+**Solana:** Phantom, Solflare, Sollet, Slope, Exodus
+
 **Hardware:** Ledger (Ethereum & Solana)
 
 ---
@@ -56,8 +64,10 @@ It’s a **self-managed wallet** that lets you send, receive, and store crypto a
 
 To access crypto-to-fiat off-ramps:
 
-• Go to **Settings → KYC**  
-• Upload your identification documents  
+• Go to **Settings → KYC**
+
+• Upload your identification documents
+
 • Once approved, you’ll see your KYC status in your dashboard
 
 ---
@@ -66,9 +76,12 @@ To access crypto-to-fiat off-ramps:
 
 Navigate to the **PayLinks** tab and hit **Create New**
 
-• Add product details, price, and accepted tokens  
-• Select your payout wallet  
-• Customize options like recurring payments, access restrictions, or dynamic pricing  
+• Add product details, price, and accepted tokens
+
+• Select your payout wallet
+
+• Customize options like recurring payments, access restrictions, or dynamic pricing
+
 • Share your link or embed it on your site
 
 💡 *Tip: Input amounts in cents (smallest crypto units) for precision. There are 100 cents in a dollar.*
@@ -79,9 +92,12 @@ Navigate to the **PayLinks** tab and hit **Create New**
 
 In your **Transactions** tab:
 
-• Monitor incoming payments, wallet addresses, status, and fees  
-• Filter and search by date, payment method, or transaction ID, status, and network  
-• Download reports as CSV files  
+• Monitor incoming payments, wallet addresses, status, and fees
+
+• Filter and search by date, payment method, or transaction ID, status, and network
+
+• Download reports as CSV files
+
 • Or sync via API
 
 ---
@@ -92,21 +108,28 @@ In your **Transactions** tab:
 
 Add ScionX payments to your platform easily:
 
-• **Checkout Widget:** Plug-and-play payment UI supporting USDC and dozens of tokens  
-• **API Access:** Customize everything — subscriptions, merchant management, token preferences  
+• **Checkout Widget:** Plug-and-play payment UI supporting USDC and dozens of tokens
+
+• **API Access:** Customize everything — subscriptions, merchant management, token preferences
+
 • **Webhooks:** Get real-time updates when transactions occur
 
 ### For Developers
 
-- Build custom onchain payment flows  
-• Generate links or one-time charges  
-• Listen to webhook events for automation  
-• Use our optimized Solana transaction routing & trading API  
+- Build custom onchain payment flows
+
+• Generate links or one-time charges
+
+• Listen to webhook events for automation
+
+• Use our optimized Solana transaction routing & trading API
+
 → View Developer Docs
 
 ### For Creators
 
-- Accept tips, subscriptions, or gated content with a single Pay Link  
+- Accept tips, subscriptions, or gated content with a single Pay Link
+
 • Great for member-only access
 
 ---
@@ -117,12 +140,16 @@ After successful KYC, ScionX enables direct bank withdrawals via partners:
 
 **Supported payout methods include:**
 
-• SEPA  
-• Wire Transfer  
-• ACH  
+• SEPA
+
+• Wire Transfer
+
+• ACH
+
 • SWIFT
 
 > We route withdrawals through the best provider based on your region.
+> 
 
 ---
 
@@ -138,4 +165,30 @@ ScionX runs automated checks to detect unusual patterns. From wallet reputation 
 
 ### Fraud Prevention = Community First
 
-Spot something off? Report it instantly.
+Spot something off? Report it instantly in your dashboard. Our internal blacklist, powered by community reports and analytics, keeps repeat offenders out of the ecosystem.
+
+### Border-Aware by Design
+
+Users in sanctioned or restricted regions are automatically geo-fenced and blocked from transacting. We build with global compliance in mind — so you don’t have to.
+
+### Smart Access Tools for Merchants
+
+Want to limit access? You can:
+
+• Require wallet login or email sign-in
+
+• Geofence offers by region or country
+
+### Finality with Flexibility
+
+Crypto payments are irreversible once confirmed on-chain. Refunds — if applicable — are always handled directly between buyer and merchant. ScionX stays non-custodial, so you stay in control.
+
+### Security Isn’t a Feature. It’s the Foundation.
+
+From smart contract audits to multi-sig treasury support, ScionX is built with a security-first mindset across every layer of our stack.
+
+---
+
+## Need Support?
+
+📧 Email us anytime at: ** {{ 'wecare@scionx.io' | encode_email }}**
