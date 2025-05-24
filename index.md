@@ -191,4 +191,4 @@ From smart contract audits to multi-sig treasury support, ScionX is built with a
 
 ## Need Support?
 
-📧 Email us anytime at: ** {{ 'wecare@scionx.io' | encode_email }}**
+📧 Email us anytime at: **wecare AT scionx DOT io **
