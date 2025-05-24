@@ -3,18 +3,23 @@ title: Wallet Guide
 nav_order: 2
 ---
 
-# 🔐 What’s a Web3 Wallet?
+# What’s a Web3 Wallet?
 
-It’s a **self-managed wallet** that lets you send, receive, and store crypto assets without relying on a third party.
+A Web3 wallet lets you send, receive, and store crypto — without needing a bank or third-party service. You stay in control of your funds at all times.
 
-**ScionX supports wallets on Ethereum and Solana networks.**
+Scionx supports wallets on both **Ethereum (EVM)** and **Solana** networks.
 
-**Supported Wallets:**
+## Supported Wallets
 
-**Ethereum (EVM):** MetaMask, Coinbase Wallet, Trust Wallet, Rainbow, Argent, Gnosis Safe, Frame
+**Ethereum (EVM)**  
+MetaMask, Coinbase Wallet, Trust Wallet, Rainbow, Argent, Gnosis Safe, Frame
 
-**Solana:** Phantom, Solflare, Sollet, Slope, Exodus
+**Solana**  
+Phantom, Solflare, Sollet, Slope, Exodus
 
-**Hardware:** Ledger (Ethereum & Solana)
+**Hardware Wallets**  
+Ledger (compatible with both Ethereum and Solana)
 
-[Back to Quick Start →](/)
+You can connect via WalletConnect or manually add your wallet address.  
+Scionx is non-custodial — your funds stay in your wallet.
+

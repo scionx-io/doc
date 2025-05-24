@@ -1,42 +1,26 @@
 ---
-title: Quick Start
+title: Get Started
 layout: home
 nav_order: 1
 ---
 
-# 🚀 Set Up in 3 Minutes
+# Start Accepting Crypto with Scionx
+
+Scionx makes it easy to accept cryptocurrency payments — whether you're running a business or building an app.
+
+## What You Can Do:
+- Accept over 1,000 cryptocurrencies  
+- Get paid in a stable, regulated digital currency (not fiat)  
+- Withdraw to a wallet, exchange, or off-ramp through supported partners  
+- Customers can pay from any wallet or exchange  
+- Fast, low-cost transactions  
+
+**No crypto experience needed — easy for merchants, flexible for developers.**
+
+👉 [Go to Quick Start](#quick-start)
 
 ---
 
-## 1️⃣ Create Your Account
+## Need Help?
 
-Head over to **Scionx.io** and click **Get Started**
-
-- Enter your Company or Organization Name
-- Agree to our Terms of Service
-- Sign up using your email address
-
----
-
-## 2️⃣ Confirm Your Email Address
-
-- Check your inbox for a confirmation email from ScionX
-- Click the link to verify your address
-- You'll be automatically redirected to log in
-
----
-
-## 3️⃣ Connect a Web3 Wallet
-
-Go to **Settings → Wallets** and click **Add Wallet**
-
-Choose from the supported [wallets](/wallets) types below:
-
-- Connect via WalletConnect (QR scan or mobile deep link)
-- Or, manually add an address (ideal for multi-sig or hardware wallets)
-
-> Your [wallets](/wallets) stay non-custodial — you remain in full control.
-
-## Need Support?
-
-📧 Email us anytime at: **wecare AT scionx DOT io**
+Email us at **wecare @ scionx . io**

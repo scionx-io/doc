@@ -12,6 +12,12 @@ color_scheme: dark
 logo: "/assets/images/logo.png"
 favicon_ico: "/assets/images/favicon.ico"
 
+nav_enabled: true
+nav_external_links:
+  - title: API
+    url: https://documenter.getpostman.com/view/1383158/2sA3kUG2YZ
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+    opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
 
 plugins:
