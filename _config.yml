@@ -1,20 +1,18 @@
-# ScionX Quick Start Guide
+title: Scionx Docs
+description: Official documentation for the Scionx platform
 
-This is the official documentation site for **ScionX**, built with [Jekyll](https://jekyllrb.com) and the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme. It provides a step-by-step onboarding guide to help users get started with ScionX in just a few minutes.
+theme: just-the-docs
 
-## 📦 Features
+url: https://github.com/scionx-io/doc
 
-- Minimal setup using the Just the Docs theme
-- Clear, actionable onboarding steps
-- Optimized for deployment on GitHub Pages
-- Mobile-friendly and fast-loading
+aux_links:
+  Template Repository: https://github.com/scionx-io/doc
 
-## 🚀 Getting Started Locally
+color_scheme: dark
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
 
-Make sure you have [Ruby](https://www.ruby-lang.org/) and [Bundler](https://bundler.io/) installed.
 
-```bash
-git clone https://github.com/your-username/scionx-docs.git
-cd scionx-docs
-bundle install
-bundle exec jekyll serve
+
+plugins:
+  - jekyll-default-layout
