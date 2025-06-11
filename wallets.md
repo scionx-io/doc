@@ -1,6 +1,6 @@
 ---
 title: Wallet Guide
-nav_order: 2
+nav_order: 3
 ---
 
 # What’s a Web3 Wallet?
